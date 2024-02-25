@@ -5,7 +5,7 @@
 
 I'm Rambabu Karravula 😉, Data Science 👨🏻‍💻 from Visakhapatnam, Andhra Pradesh, India. I'm an open-source profession and mostly develop in Python 🐍.
 
-<img src="https://readme-typing-svg.herokuapp.com/?vCenter=true&width=1300&lines=Data+Analyst+,+Data+Engineer+and+DevOps+Engineer+;Passionate+about+Developing+Machine+Learning+and+Deep+Learning+Applications+And+Integrate+with+DevOps" height="60"/>
+<img src="https://readme-typing-svg.herokuapp.com/?vCenter=true&width=1300&lines=Data+Analyst+,+Data+Engineer+and+DevOps+Engineer+;Passionate+about+Developing+Machine+Learning+and+Deep+Learning+Applications+And+Integrate+with+DevOps" height="80"/>
 
 <div>
 <a href="mailto: karravularambabu@gmail.com">
@@ -15,7 +15,7 @@ I'm Rambabu Karravula 😉, Data Science 👨🏻‍💻 from Visakhapatnam, And
 ### Current Status Quo : 📡
 
 - 💼 I’ve post graduated with a <strong>MSc Computer Science degree in Data Science</strong>.
-- 🔭 I’m working on my academic project called <strong>Advanced Malware Detection using ML and DL techniques</</strong>
+- 🔭 I’m working on my academic project called <strong>Advanced Malware Detection using ML and DL techniques </strong>
 - 🌱 I’m currently learning <strong>Data Engineering</strong>,<strong>DevOps Engineering</strong>and <strong> AWS and Azure </strong>
 - 🤔 My career interests are with <strong>Data Analyst, Data Engineer, Devops Engineer</strong>, etc
 - 🔍 I’m looking for career opportunities in the <strong>IT </strong> industry
