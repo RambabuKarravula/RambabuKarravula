@@ -5,7 +5,7 @@
 
 I'm Rambabu Karravula 😉, Data Science 👨🏻‍💻 from Visakhapatnam, Andhra Pradesh, India. I'm an open-source profession and mostly develop in Python 🐍.
 
-<img src="https://readme-typing-svg.herokuapp.com/?vCenter=true&width=2000&lines=Data+Analyst+,+Data+Engineer+and+DevOps+Engineer+;Passionate+about+Developing+Machine+Learning+and+Deep+Learning+Applications+And+Integrate+with+DevOps" height="40"/>
+<img src="https://readme-typing-svg.herokuapp.com/?vCenter=true&width=1300&lines=Data+Analyst+,+Data+Engineer+and+DevOps+Engineer+;Passionate+about+Developing+Machine+Learning+and+Deep+Learning+Applications+And+Integrate+with+DevOps" height="60"/>
 
 <div>
 <a href="mailto: karravularambabu@gmail.com">
