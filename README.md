@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**RambabuKarravula/RambabuKarravula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, Nice to see you. </span> </h1>
 
 I'm Rambabu Karravula 😉, Data Science 👨🏻‍💻 from Visakhapatnam, Andhra Pradesh, India. I'm an open-source profession and mostly develop in Python 🐍.
@@ -44,8 +41,6 @@ I'm Rambabu Karravula 😉, Data Science 👨🏻‍💻 from Visakhapatnam, And
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
  
- 
- -----
   
 </p>
 
