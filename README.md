@@ -11,7 +11,8 @@ I'm **Rambabu Karravula**, a passionate Data Scientist and AI/ML Engineer from V
   - **B.Sc. in Computer Science**, Sri Harshini UG & PG College (2018–2021), 80.2%  
 - 💻 **Experience**:  
   - **AI/ML and Cloud Engineer Intern**, METIS (May 2024 – Present)  
-  - **ML Engineer Intern**, CAP Corporate AI Solutions LLP (Aug 2024 – Present)  
+  - **ML Engineer Intern**, CAP Corporate AI Solutions LLP (Aug 2024 – Oct 2024)
+ - **ML Engineer**, CAP Corporate AI Solutions LLP (Nov 2024 – Present)  
 - 🔭 **Current Work**: Developing an Advanced Malware Detection System using ML/DL techniques.  
 - 🌱 **Learning Focus**: Data Engineering, Generative AI, and advanced AWS services.  
 - 🤝 **Career Interests**: Data Science, Machine Learning, Cloud Engineering  
