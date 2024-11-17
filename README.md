@@ -88,7 +88,7 @@ I'm **Rambabu Karravula**, a passionate Data Scientist and AI/ML Engineer from V
 
 - **Email**: [karravularambabu@gmail.com](mailto:karravularambabu@gmail.com)  
 - **Phone**: +91 9848686433  
-- **Location**: Hyderabad, India  
+- **Location**: Chennai, Tamil Nadu, India.
 - **LinkedIn**: [Rambabu Karravula](https://www.linkedin.com/in/RambabuKarravula/)  
 
 ---
