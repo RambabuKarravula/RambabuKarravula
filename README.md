@@ -1,60 +1,95 @@
-### Hi there 👋
+# Hi there 👋 I'm Rambabu Karravula  
+**Data Scientist/Engineer | AI/ML Specialist | Cloud Engineer**
 
+---
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, Nice to see you. </span> </h1>
+## 🌟 About Me  
+I'm **Rambabu Karravula**, a passionate Data Scientist and AI/ML Engineer from Visakhapatnam, Andhra Pradesh, India. I specialize in developing innovative AI solutions and building robust data pipelines. With experience in AWS and GCP cloud platforms, I focus on delivering impactful and scalable projects.
 
-I'm Rambabu Karravula 😉, Data Science 👨🏻‍💻 from Visakhapatnam, Andhra Pradesh, India. I'm an open-source profession and mostly develop in Machine Learning and Deep Learning 🐍.
+- 🎓 **Education**:  
+  - **M.Sc. in Data Science**, Gitam University (2022–2024), CGPA: 8.2/10  
+  - **B.Sc. in Computer Science**, Sri Harshini UG & PG College (2018–2021), 80.2%  
+- 💻 **Experience**:  
+  - **AI/ML and Cloud Engineer Intern**, METIS (May 2024 – Present)  
+  - **ML Engineer Intern**, CAP Corporate AI Solutions LLP (Aug 2024 – Present)  
+- 🔭 **Current Work**: Developing an Advanced Malware Detection System using ML/DL techniques.  
+- 🌱 **Learning Focus**: Data Engineering, Generative AI, and advanced AWS services.  
+- 🤝 **Career Interests**: Data Science, Machine Learning, Cloud Engineering  
 
-<img src="https://readme-typing-svg.herokuapp.com/?vCenter=true&width=1200&lines=Passionate+about+Developing+AI/ML+Applications+and+Data+Engineering+Pipelines" height="100"/>
+---
 
-<div>
-<a href="mailto: karravularambabu@gmail.com">
-<img src="https://img.shields.io/badge/-karravularambabu%40gmail.com-7B83EB?&style=for-the-badge&logo=gmail&logoColor=white" ></a>  <a  href="https://www.instagram.com/r_a_m_chow/">   <img src="https://img.shields.io/badge/@r_a_m_chow-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/RambabuKarravula/"><img src="https://img.shields.io/badge/RambabuKarravula-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
-</div>
+## 🛠️ Skills & Expertise  
 
-### Current Status Quo : 📡
+### **Data Science & Engineering**  
+- Python (Expert)  
+- SQL/NoSQL  
+- Data Visualization  
+- Statistical Analysis  
+- ETL Pipelines  
+- Data Preprocessing  
 
-- 💼 I’ve post graduated with a <strong>MSc Computer Science degree in Data Science</strong>.
-- 🔭 I’m working on my academic project called <strong>Advanced Malware Detection using ML and DL techniques </strong>
-- 🌱 I’m currently learning <strong>Data Analyst</strong>,<strong>Data Engineer</strong>and <strong> AWS and Azure </strong>
-- 🤔 My career interests are with <strong>Data Analyst, Data Engineer</strong>, etc
-- 🔍 I’m looking for career opportunities in the <strong>IT </strong> industry
+### **AI/Machine Learning**  
+- TensorFlow  
+- PyTorch  
+- Scikit-learn  
+- Neural Networks  
+- Computer Vision  
+- NLP  
 
+### **Cloud Platforms**  
+- **AWS**: EC2, S3, SageMaker, Lambda, CloudFront  
+- **GCP**: VM, Vertex AI  
+- Docker  
+- Kubernetes  
+- CI/CD Pipelines  
 
+### **LLMs & GenAI**  
+- LangChain  
+- RAG (Retrieval-Augmented Generation)  
+- Prompt Engineering  
+- LLM Fine-tuning  
+- Vector Databases  
 
-### Languages and Tools
+---
 
-<p>
- 
- 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
- <code><img width="15%" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png"></code>
-  <code><img width="15%" src="https://swimburger.net/media/ppnn3pcl/azure.png"></code>
- <code><img width="15%" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
- 
-  
-</p>
+## 💡 Featured Projects  
 
+### [Advanced Malware Detection](#)  
+**Technologies**: Python, TensorFlow, Scikit-learn, Pandas  
+- ML/DL-based malware detection and classification system.  
 
-### Github Stats : 🤝🎢
-<h1 align="center">Github Stats</h1>
+### [Smart Document Assistant](#)  
+**Technologies**: Python, LLMs, RAG, Streamlit, Hugging Face  
+- AI-powered document assistant with voice interaction.  
+
+### [ETL Pipeline with Apache Airflow](#)  
+**Technologies**: Apache Airflow, AWS EC2, Python  
+- Automated ETL pipeline deployed on AWS.  
+
+### [Comprehensive Data Analysis Dashboard](#)  
+**Technologies**: Python, scikit-learn, TensorFlow, Streamlit  
+- Interactive web application for data analysis and ML tools.  
+
+[View More Projects on GitHub](#)
+
+---
+
+## 📫 Get in Touch  
+
+- **Email**: [karravularambabu@gmail.com](mailto:karravularambabu@gmail.com)  
+- **Phone**: +91 9848686433  
+- **Location**: Hyderabad, India  
+- **LinkedIn**: [Rambabu Karravula](https://www.linkedin.com/in/RambabuKarravula/)  
+
+---
+
+## 🔍 GitHub Activity  
 
 <div align="center">
   
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=RambabuKarravula&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=RambabuKarravula&theme=highcontrast)](https://github.com/RambabuKarravula)
 
- </div>
- 
- 
-<img align="left" alt="Rambabu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RambabuKarravula&&show_icons=true&theme=dark" width="50%" />
+<img alt="Rambabu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RambabuKarravula&&show_icons=true&theme=dark" width="50%" />  
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RambabuKarravula&layout=compact&theme=dark" width="46%" />
-<br>
 
-
+</div>
