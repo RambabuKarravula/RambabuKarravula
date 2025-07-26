@@ -1,94 +1,98 @@
-# Hi there 👋 I'm Rambabu Karravula  
-**Data Scientist/Engineer | AI/ML Specialist | Cloud Engineer**
+# 👋 Hi there, I'm Rambabu Karravula  
+**AI Full-Stack Developer | Data Scientist | Cloud Engineer**
 
 ---
 
 ## 🌟 About Me  
-I'm **Rambabu Karravula**, a passionate Data Scientist and AI/ML Engineer from Visakhapatnam, Andhra Pradesh, India. I specialize in developing innovative AI solutions and building robust data pipelines. With experience in AWS and GCP cloud platforms, I focus on delivering impactful and scalable projects.
+I'm **Rambabu Karravula**, a results-driven AI Full-Stack Developer from Visakhapatnam, Andhra Pradesh. With 1+ year of experience building scalable AI systems using **GCP, AWS, and advanced LLMs**, I specialize in creating intelligent, production-ready solutions that automate workflows across manufacturing, finance, and document digitization sectors.
 
-- 🎓 **Education**:  
-  - **M.Sc. in Data Science**, Gitam University (2022–2024), CGPA: 8.2/10  
-  - **B.Sc. in Computer Science**, Sri Harshini UG & PG College (2018–2021), 80.2%  
-- 💻 **Experience**:  
-  - **AI/ML and Cloud Engineer Intern**, METIS (May 2024 – Present)  
-  - **ML Engineer Intern**, CAP Corporate AI Solutions LLP (Aug 2024 – Nov 2024)
-  - **AI/ML Engineer**, CAP Corporate AI Solutions LLP (Dec 2024 – Present)  
-- 🔭 **Current Work**: Developing an Advanced Malware Detection System using ML/DL techniques.  
-- 🌱 **Learning Focus**: Data Engineering, Generative AI, and advanced AWS services.  
-- 🤝 **Career Interests**: Data Science, Machine Learning, Cloud Engineering  
+- 🎓 **Education**  
+  - M.Sc. Data Science, Gitam University (2022–2024) — **CGPA: 8.2/10**  
+  - B.Sc. Computer Science, Sri Harshini UG & PG College (2018–2021) — **GPA: 7.5/10**
+
+- 💼 **Professional Summary**  
+  - 🚀 Built **4 production-grade AI apps** serving 200+ users  
+  - 🔐 Designed intelligent audit & compliance systems with **98% accuracy**  
+  - 🧠 Architected **multimodal RAG systems** and intelligent OCR pipelines  
+  - 🌐 Led full-stack development of enterprise-grade tools using **FastAPI + React + Firebase**
 
 ---
 
-## 🛠️ Skills & Expertise  
+## 💼 Work Experience  
 
-### **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)  
+### 🔹 **AI/ML Engineer**, CAP Corporate AI Solutions LLP — *Chennai*  
+**(Dec 2024 – Present)**  
+- Built multimodal LLM-powered platforms for document extraction, compliance, and audit automation  
+- Developed FastAPI/React/MySQL-based **Asset Management System** tracking 500+ assets  
+- Engineered Gemini-based email summarization + notification pipeline with Cloud Functions  
+- Set up containerized deployment with GitHub Actions + Cloud Run (99.9% uptime)
 
-### **Data Science & Engineering**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+### 🔹 **ML Engineer Intern**, CAP Corporate AI Solutions LLP  
+**(Aug 2024 – Nov 2024)**  
+- Developed OCR post-processing and NLP classification APIs for IDP system  
+- Integrated Firebase Auth & Firestore with Next.js for real-time monitoring
 
-### **AI/Machine Learning**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCA28?style=for-the-badge&logo=huggingface&logoColor=white)  
+### 🔹 **AI/ML & Cloud Engineer Intern**, METIS — *Remote (Netherlands)*  
+**(May 2023 – Nov 2023)**  
+- Built a **Multimodal RAG application** on AWS: OpenAI fine-tuning + EMR + Lambda + SageMaker  
+- Automated real-time alerts using Firebase + Supabase  
+
+---
+
+## 🛠️ Skills & Technologies  
+
+### **Languages & Data Tools**  
+`Python`, `SQL`, `NoSQL`, `Pandas`, `NumPy`, `Scikit-learn`, `Pyspark`
+
+### **AI / ML / NLP / RAG**  
+`TensorFlow`, `PyTorch`, `Keras`, `LangChain`, `LlamaIndex`, `Hugging Face`, `Vertex AI`, `RAG`, `MLflow`, `Neo4j`, `ChromaDB`
+
+### **Full-Stack & Deployment**  
+`FastAPI`, `React`, `Next.js`, `TypeScript`, `Docker`, `Firebase`, `CI/CD`, `GitHub Actions`
 
 ### **Cloud Platforms**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+`AWS (Expert)`, `GCP (Expert)`, `Azure (Basics)`, `Terraform`, `CloudFormation`, `ECS`, `Cloud Run`
 
-### **Tools & Technologies**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)  
+### **Tools & Platforms**  
+`VS Code`, `JupyterLab`, `Linux`, `n8n`, `Vapi AI`, `Git`, `Supabase`, `Airflow`
 
 ---
 
 ## 💡 Featured Projects  
 
-### [Advanced Malware Detection](https://github.com/RambabuKarravula/Malware-Detection-Using-Ml-And-Dl-Techniques)  
-**Technologies**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+### 🔐 [Malware Classification System](https://github.com/RambabuKarravula/Malware-Detection-Using-Ml-And-Dl-Techniques)  
+ML & DL-based malware detection system using **SVM, RF, CNN, RNN** for classification and behavioral analysis.
 
-- Developed a machine learning and deep learning-based system for malware detection and classification.  
+### 🧾 [Smart Document Assistant](https://github.com/RambabuKarravula/Smart-Document-Assistant)  
+Multimodal LLM app with real-time document understanding, built using **Streamlit + Hugging Face**.
 
-### [Smart Document Assistant](https://github.com/RambabuKarravula/Smart-Document-Assistant)  
-**Technologies**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCA28?style=flat&logo=huggingface&logoColor=white)  
+### 🎬 [Movie Recommendation System](https://github.com/RambabuKarravula/Movie-Recommendation-System)  
+Content-based recommender using **TF-IDF + Cosine Similarity**, deployed on **Heroku**.
 
-- Created an AI-powered document assistant with voice interaction capabilities.  
+### 🤖 [Hybrid RAG Chatbot Framework](https://github.com/RambabuKarravula/LLM-s)  
+Combines **Open-source and Paid LLMs** into a Retrieval-Augmented Generation pipeline for PDF Q&A and chatbot responses.
 
-### [ETL Pipeline with Apache Airflow](https://github.com/RambabuKarravula/ETL-Pipeline-Apache-Airflow)  
-**Technologies**: ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-
-- Implemented an automated ETL pipeline deployed on AWS using Apache Airflow.  
+### 📈 [Stock Market Prediction (Ongoing)](https://github.com/RambabuKarravula)  
+Advanced quantitative finance model using **statistical ML, LSTM, and GARCH** to predict market direction.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Highlights  
 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RambabuKarravula&theme=highcontrast)](https://github.com/RambabuKarravula)  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RambabuKarravula&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RambabuKarravula&layout=compact&theme=dark)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RambabuKarravula&show_icons=true&theme=dark)](https://github.com/RambabuKarravula)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RambabuKarravula&layout=compact&theme=dark)](https://github.com/RambabuKarravula)
 
 </div>
 
 ---
 
-## 📫 Get in Touch  
+## 📫 Contact  
 
-- **Email**: [karravularambabu@gmail.com](mailto:karravularambabu@gmail.com)  
-- **Phone**: +91 9848686433  
-- **Location**: Chennai, Tamil Nadu, India.
-- **LinkedIn**: [Rambabu Karravula](https://www.linkedin.com/in/RambabuKarravula/)  
-
----
+- 📧 Email: [karravularambabu@gmail.com](mailto:karravularambabu@gmail.com)  
+- 📞 Phone: +91 9848686433  
+- 🌍 Portfolio: [rambabu-mocha.vercel.app](https://rambabu-mocha.vercel.app)  
+- 💼 LinkedIn: [Rambabu Karravula](https://www.linkedin.com/in/rambabukarravula/)  
+"""
